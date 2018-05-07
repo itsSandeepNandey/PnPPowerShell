@@ -1,0 +1,8 @@
+<Configurations>
+    <ConnectSPOnline 
+    SiteURL=""
+    UserName=""
+    PAssword=""
+    >
+    </ConnectSPOnline>
+</Configurations>

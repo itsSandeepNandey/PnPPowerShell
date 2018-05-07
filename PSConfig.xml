@@ -1,8 +1,0 @@
-<Configurations>
-    <ConnectSPOnline 
-    SiteURL="https://vssivodafoneu.sharepoint.com/sites/PDO"
-    UserName="neeraj.sapra@vssivodafoneu.onmicrosoft.com"
-    PAssword="Vispl@123"
-    >
-    </ConnectSPOnline>
-</Configurations>

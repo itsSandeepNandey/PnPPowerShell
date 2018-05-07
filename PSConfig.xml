@@ -1,6 +1,6 @@
 <Configurations>
     <ConnectSPOnline 
-    SiteURL=""
+    SiteURL="<SiteURL>"
     UserName=""
     PAssword=""
     >
